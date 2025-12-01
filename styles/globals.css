@@ -1,0 +1,5 @@
+:root{--maxw:1100px;--accent:#0a84ff}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Arial,sans-serif;color:#111;line-height:1.5}
+header{background:#f4f4f6;padding:20px;text-align:center}
+a{color:var(--accent)}img{max-width:100%;display:block}main{padding:24px}
+`
